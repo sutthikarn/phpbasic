@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-$height=['john'=>178,'rebert'=>189,'joly'=>186];
+$height=['john'=>179,'rebert'=>189,'joly'=>186];
 print_r($height);
 echo '<hr>';
 echo $height['john'];
